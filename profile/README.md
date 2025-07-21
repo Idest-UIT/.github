@@ -7,7 +7,7 @@
   <li><a href="https://study4.com">Study4</a></li>
 </ul>
 
-
+// need update diagram
 ```mermaid
 erDiagram
   users ||--o{ student_profiles : has
